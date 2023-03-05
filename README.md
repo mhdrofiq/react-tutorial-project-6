@@ -8,6 +8,6 @@ This is an upgrade based on the first project with ReactFacts where a toggle is 
 
 A preview of the page is shown below.
 
-<!-- ![Preview image](https://github.com/mhdrofiq/react-tutorial-project-1/blob/master/preview1.png)
+![Preview image](https://github.com/mhdrofiq/react-tutorial-project-6/blob/master/preview1.png)
 
-![Preview image](https://github.com/mhdrofiq/react-tutorial-project-1/blob/master/preview2.png) -->
+![Preview image](https://github.com/mhdrofiq/react-tutorial-project-6/blob/master/preview2.png)
